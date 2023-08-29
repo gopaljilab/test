@@ -6,6 +6,7 @@ public class String_Buffer {
         StringBuffer sb = new StringBuffer();
         // Input string
         Scanner sc = new Scanner(System.in);
+        // Accept First Name
         System.out.println("First Name : ");
         String first = sc.nextLine();
         // Accept Middle name
@@ -14,13 +15,15 @@ public class String_Buffer {
         // Accept last Name
         System.out.println("Last Name : ");
         String Last = sc.nextLine();
-        sb.append(first);
-        sb.append(middle);
-        sb.append(Last);
+
+        sb.append(first); // first name
+        sb.append(middle);  // first_name + Middle_name
+        sb.append(Last);    // First_name + Middle_name + Last_name == Full_name
+
         System.out.println( "Name : " + first);
         System.out.println("Middle : " + middle);
         System.out.println("Last : "+ Last);
-        System.out.println("Full Name : " + sb);
-        System.out.println("Reverse : " + sb.reverse());
+        System.out.println("Full Name : " + sb);    // connect all the strings
+        System.out.println("Reverse : " + sb.reverse());   // reverse the strings
     }
 }
