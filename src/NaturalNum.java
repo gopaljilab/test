@@ -10,7 +10,7 @@ public class NaturalNum {
         n = sc.nextInt();
         System.out.println("Natural Numbers : ");
         for (int i = 1; i <= n; i++) {
-            System.out.println(+i);
+            System.out.println(i);
         }
     }
 }
