@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-public class String_Buffer {
+public class StringBuffer {
     public static void main(String[] args) {
         // Create Empty String Buffer Object
-        StringBuffer sb = new StringBuffer();
+        java.lang.StringBuffer sb = new java.lang.StringBuffer();
         // Input string
         Scanner sc = new Scanner(System.in);
         // Accept First Name

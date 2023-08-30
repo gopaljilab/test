@@ -1,7 +1,7 @@
 /* Ques. - Display Star in Triangular Form */
 import java.util.Scanner;
 
-public class Star_pattern {
+public class StarPattern {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Number which you want to print in : ");

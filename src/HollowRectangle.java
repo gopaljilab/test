@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Hollow_rectangle {
+public class HollowRectangle {
     public static void main(String[] args) {
         int i,j;
         Scanner sc = new Scanner (System.in);

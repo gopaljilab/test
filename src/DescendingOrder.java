@@ -1,7 +1,7 @@
 /*Print Descending order of a number*/
 import java.util.Scanner;
 
-public class Descending_order {
+public class DescendingOrder {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);     /*take Input*/
         System.out.println("Enter a number u want to Descending order = ");

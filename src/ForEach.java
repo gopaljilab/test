@@ -1,6 +1,6 @@
 /*Print Array Elements With the help of For Each loop*/
 
-public class For_each {
+public class ForEach {
     public static void main(String[] args) {
         int [] arr = {20,30,50,70,80};
         System.out.println("Print the Array element : ");

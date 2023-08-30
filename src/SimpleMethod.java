@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Simple_method {
+public class SimpleMethod {
     static   int a ,b , c;
     public void display ()
     {
@@ -16,7 +16,7 @@ public class Simple_method {
         b = sc.nextInt();
         c = sc.nextInt();
         //Create a object for calling the Method
-        Simple_method d = new Simple_method();
+        SimpleMethod d = new SimpleMethod();
 
         /* calling the display method() */
         d.display();

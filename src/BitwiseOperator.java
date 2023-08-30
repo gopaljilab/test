@@ -1,6 +1,6 @@
 import java.util.Scanner;
                     // Question-4 : input a byte  to convert other bitwise operators
-public class Bitwise_op {
+public class BitwiseOperator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Two Byte : ");

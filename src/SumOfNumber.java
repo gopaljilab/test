@@ -2,7 +2,7 @@
                 //  with the help of three variables
     import java.util.Scanner;
 
-    public class Sum_num {
+    public class SumOfNumber {
     public static void main(String[] args) {
         int a , b  , c ;
         Scanner sc = new Scanner(System.in);

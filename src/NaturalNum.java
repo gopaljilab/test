@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // Question - 7  : Print Natural Numbers by Input in For Loop
 
-public class Natural_num {
+public class NaturalNum {
     public static void main(String[] args) {
         int n;
         Scanner sc = new Scanner(System.in);

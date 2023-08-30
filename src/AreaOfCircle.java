@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Area_of_circle {
+public class AreaOfCircle {
     static double area, pi = 3.14, radius;
 
     public static void calculate() {
