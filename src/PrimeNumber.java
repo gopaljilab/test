@@ -2,9 +2,10 @@ import java.util.Scanner;
 
 public class PrimeNumber {
     static int i,num;
-    boolean isPrime = true;
-    void calculation()
+
+    public static void calculation()
     {
+        boolean isPrime = true;
         // 0 and 1 are not prime numbers
         // change isPrime to false for non - prime number
         if (num == 0 || num == 1) {
@@ -34,6 +35,7 @@ public class PrimeNumber {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the Number : ");
         num = sc.nextInt();
+        calculation();
 
     }
 }
