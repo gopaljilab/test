@@ -8,7 +8,7 @@ public class Factorial {
         }
         int factorial = 1;                  // start with 1
         for (int ch = num; ch >= 1; ch--) {           // check the condition
-            factorial = factorial * ch;
+            factorial *= ch;
         }
         System.out.println("Factorial is " + factorial);
         return;
