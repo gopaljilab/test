@@ -6,7 +6,7 @@ public class ForEach {
         System.out.println("Print the Array element : ");
         for (int element : arr)     // Create a new variable and Store the Elements in it.
              {
-                 System.out.println(+element);
+                 System.out.println(element);
              }
     }
 }
