@@ -1,3 +1,5 @@
+package diffrent_type_numbers;
+
 import java.util.Scanner;
 
 // Question - 7  : Print Natural Numbers by Input in For Loop

@@ -1,4 +1,4 @@
-/*Print Descending order of a number*/
+package diffrent_type_numbers;/*Print Descending order of a number*/
 import java.util.Scanner;
 
 public class DescendingOrder {

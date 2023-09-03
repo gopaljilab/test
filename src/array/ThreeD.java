@@ -1,3 +1,5 @@
+package array;
+
 public class ThreeD {
     public static void main(String[] args) {
         // declare four variables

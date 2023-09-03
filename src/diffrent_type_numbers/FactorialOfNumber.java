@@ -1,6 +1,8 @@
+package diffrent_type_numbers;
+
 import java.util.Scanner;
 
-public class Factorial {
+public class FactorialOfNumber {
     public static void printFactorial(int num) {
         if (num <= 0) {                            // if Number less than equal to 0 then print ()
             System.out.println("Invalid Number !");

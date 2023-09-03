@@ -1,4 +1,4 @@
-/*Print Array Elements With the help of For Each loop*/
+package array;/*Print Array Elements With the help of For Each loop*/
 
 public class ForEach {
     public static void main(String[] args) {

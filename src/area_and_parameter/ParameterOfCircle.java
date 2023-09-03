@@ -1,3 +1,5 @@
+package area_and_parameter;
+
 import java.text.NumberFormat;
 import java.util.Scanner;
                             // Factory method

@@ -1,3 +1,5 @@
+package area_and_parameter;
+
 import java.util.Scanner;
 
 public class AreaOfCircle {

@@ -1,4 +1,4 @@
-                // Question - 5 : Check the Number it Positive or Negative
+package diffrent_type_numbers;                // Question - 5 : Check the Number it Positive or Negative
 
 import java.util.Scanner;
 

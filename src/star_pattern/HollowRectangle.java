@@ -1,3 +1,5 @@
+package star_pattern;
+
 import java.util.Scanner;
 
 public class HollowRectangle {

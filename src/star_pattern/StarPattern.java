@@ -1,4 +1,4 @@
-/* Ques. - Display Star in Triangular Form */
+package star_pattern;/* Ques. - Display Star in Triangular Form */
 import java.util.Scanner;
 
 public class StarPattern {

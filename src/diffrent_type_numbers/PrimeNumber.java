@@ -1,3 +1,5 @@
+package diffrent_type_numbers;
+
 import java.util.Scanner;
 
 public class PrimeNumber {
