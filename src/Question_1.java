@@ -4,9 +4,9 @@ public class Question_1 {
     public static void main(String[] args) {
         int i = 1;
         do {
-            System.out.println(i);
+            System.out.println("Kya hua 🫣");
             i++;
         }
-        while( i<=10 ) ;
+        while( i<=1000 ) ;
     }
 }

@@ -1,3 +1,5 @@
+package greetings;
+
 import java.util.Scanner;
 
 public class WeekDays {
